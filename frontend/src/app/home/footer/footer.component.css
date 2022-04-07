@@ -1,0 +1,19 @@
+.footer{
+    background-color: #7c3de2;
+    height: 80px;
+    margin-top: 453px;
+}
+
+.nav-link{
+    color: white;
+    padding-top: 10px;
+}
+
+.nav-link:hover{
+    background-color: #a470f8;
+    color: black;
+}
+
+.footer p{
+    text-align: center;
+}
